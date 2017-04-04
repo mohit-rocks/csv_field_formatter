@@ -1,0 +1,5 @@
+name: CSV Field Formatter
+type: module
+description: Field formatter to parse and read CSV data.
+core: 8.x
+package: Custom
